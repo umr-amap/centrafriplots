@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Network of central African plots</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/banner.gif</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;To help document the role and response of tropical forests in a global change context, IRD has been collaborating since 2010 with local institutions in Cameroon, Gabon and DRC to set up a network (or observatory) of permanent forest inventory scientific plots.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;*Data acquisition&lt;/strong&gt;* follows international methodological standards to measure above-ground biomass and inventory tree species within 1 ha square plots.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;*Taxa identification&lt;/strong&gt;* is conducted through the following steps:
+Experiment field botanists conduct a first identification on the field. When possible, herbarium samples are collected for (i) each species of a plot present and (ii) all unidentified, or uncertain identification, individuals.
+Herbarium samples are collected in at least two duplicates. One stay in the host country while another is stored at a unique dedicated herbarium collection for tree inventory in Central Africa at the Herbarium of the Université Libre de Bruxelles (Belgium) (BRLU).&lt;/p&gt;
+&lt;p&gt;A particular attention is given to the quality of &lt;strong&gt;*plot georeferencing&lt;/strong&gt;* with the prospect of remote sensing product calibration/validation. Sampling of plot location is oriented towards representative forest types, and not fully random. It is therefore more suitable in a model-based statistical framework than in a design-based one.
+In terms of scientific output, parts of the plot network has already been used in ecological and remote sensing studies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/amap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/amap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/auf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/auf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/brlu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/brlu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/comifac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/comifac/</guid>
+      <description>&lt;p&gt;Project PREREDD (World Bank)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/eramet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/eramet/</guid>
+      <description>&lt;p&gt;Mabounié plots in Gabon&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/ifs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/ifs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/ird/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/ird/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/labosyst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/labosyst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/lmi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/lmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/nhpc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/nhpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/ue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/ue/</guid>
+      <description>&lt;p&gt;Project EIT-Climate KIC&lt;/p&gt;
+&lt;p&gt;Project Eragas 3DForMod&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/univ_yaounde/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/univ_yaounde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/wwf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/wwf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
