@@ -1,7 +1,7 @@
 +++
 title = "Exploring the relation between remotely sensed vertical canopy structure and tree species diversity in Gabon"
 date = "2019-01-01"
-authors = ["Suzanne Mariëlle Marselis", "Hao Tang", "John Armston", "Katharine Abernethy", "Alfonso Alonso", "Nicolas Barbier", "PulchA(C)rie Bissiengou", "Kathryn Jeffery", "David Kenfack", "Nicolas Labrière", "Seung-Kuk Lee", "Simon L. Lewis", "Hervé Memiaghe", "John R. Poulsen", "Lee White", "Ralph Dubayah"]
+authors = ["Suzanne Mariëlle Marselis", "Hao Tang", "John Armston", "Katharine Abernethy", "Alfonso Alonso", "Nicolas Barbier", "Pulchérie Bissiengou", "Kathryn Jeffery", "David Kenfack", "Nicolas Labrière", "Seung-Kuk Lee", "Simon L. Lewis", "Hervé Memiaghe", "John R. Poulsen", "Lee White", "Ralph Dubayah"]
 publication_types = ["2"]
 publication = "Environmental Research Letters, (14), _pp. 094013_, https://doi.org/10.1088/1748-9326/ab2dcd"
 publication_short = "Environmental Research Letters, (14), _pp. 094013_, https://doi.org/10.1088/1748-9326/ab2dcd"
