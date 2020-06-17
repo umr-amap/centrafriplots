@@ -10,6 +10,10 @@ organizations:
 - name:
   url: ""
 role: 
+social:
+- icon: github
+  icon_pack: fab
+  link: https://github.com/umr-amap/centrafriplots
 superuser: true
 user_groups:
 - admin
