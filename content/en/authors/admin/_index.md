@@ -30,7 +30,7 @@ Herbarium samples are collected in at least two duplicates. One stay in the host
 A particular attention is given to the quality of *__plot georeferencing__* (Réjou-Méchain et al. 2019) with the prospect of remote sensing product calibration/validation. Sampling of plot location is oriented towards representative forest types, and not fully random. It is therefore more suitable in a model-based statistical framework than in a design-based one (McRoberts et al. 2015).  
 In terms of scientific output, parts of the plot network has already been used in ecological and remote sensing studies.   
 
-See the publication section for more information.
+See the [publication section](https://central-african-plot-network.netlify.app/publication/) for more information.
 
 
 
