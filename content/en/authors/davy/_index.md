@@ -15,7 +15,7 @@ role: Assistant
 social:
 superuser: true
 user_groups:
-- Researchers
+- People
 ---
 
 Davy U. Ikabanga is
