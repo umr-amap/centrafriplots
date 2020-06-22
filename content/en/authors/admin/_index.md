@@ -5,7 +5,7 @@ bio:
 education:
 email: ""
 interests:
-name: Central African network plot network
+name: Central African plot network
 organizations:
 - name:
   url: ""
