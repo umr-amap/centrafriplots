@@ -13,7 +13,7 @@ organizations:
 role: Researcher
 superuser: true
 user_groups:
-- People
+- rrr
 ---
 
 Suzanne Mogue is a Researcher of Plant Systematic and Ecology at University of Yaounde I in Cameroon.

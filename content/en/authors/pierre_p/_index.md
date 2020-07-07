@@ -5,7 +5,8 @@ bio:
 education:
 email: ""
 interests:
-- ###
+- Forest carbon stocks and dynamics
+- Remote sensing of tropical forests
 name: Pierre Ploton
 organizations:
 - name: Institut de Recherche pour le Développement
@@ -20,7 +21,9 @@ user_groups:
 - People
 ---
 
-Pierre Ploton is..
+Pierre Ploton is a postdoctoral researcher based at [AMAP joint unit](https://central-african-plot-network.netlify.app/authors/amap/).  
 
-He's been involved in the network since/in/between XXX.
- ####
+He’s been involved in the network since 2011.
+
+p.ploton(at)gmail.com
+
