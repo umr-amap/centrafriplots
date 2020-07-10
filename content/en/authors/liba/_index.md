@@ -14,7 +14,7 @@ name: Moses Libalah
 organizations:
 - name: University of Yaoundé I
   url: ""
-role: Researcher
+role: Lecturer and Researcher
 social:
 - icon: twitter
   icon_pack: fab
