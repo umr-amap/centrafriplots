@@ -5,7 +5,11 @@ bio:
 education:
 email: ""
 interests:
-- ####
+- Tropical African flora
+- Forest dynamics
+- Floristic patterns
+- Functionnal traits
+- Aboveground biomass and allometry
 name: Moses Libalah
 organizations:
 - name: University of Yaoundé I
@@ -23,9 +27,8 @@ user_groups:
 - People
 ---
 
-Moses Libalah is a Researcher at University of Yaounde I in Cameroon.
+Moses Libalah is a Lecturer and Researcher at University of Yaoundé I in Cameroon.
+He’s been involved in the network since 2013, collecting data as one of the field botanist. 
 
-He's been involved in the network since XXX.
- ####
- 
+
 

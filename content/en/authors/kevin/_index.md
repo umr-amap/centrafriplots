@@ -13,7 +13,7 @@ organizations:
 role: Researcher
 superuser: true
 user_groups:
-- People
+- rrr
 ---
 
 Kevin Tayo is ...
