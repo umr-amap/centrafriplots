@@ -19,7 +19,7 @@ slug: map
 subtitle: "Map and statistics"
 summary: ''
 tags: []
-authors: [admin, gilles]
+authors: [gilles]
 ---
 
 

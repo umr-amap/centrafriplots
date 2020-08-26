@@ -36,6 +36,8 @@ In terms of scientific output, parts of the plot network has already been used i
 
 See the [publication section](https://central-african-plot-network.netlify.app/publication/) for more information.
 
+See the [map of existing plots](https://5f466c7af354ff00081a8097--central-african-plot-network.netlify.app/post/map/).
+
 
 
 
