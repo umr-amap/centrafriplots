@@ -1,0 +1,195 @@
+﻿plot_name,locality_name,country,team_leader,additional_people,ddlat,ddlon,date_census_1
+UMA016,uma,République Démocratique du Congo,John Katembo,NA,0.434181,25.7854,4/1/2015
+UMA017,uma,République Démocratique du Congo,John Katembo,NA,0.451369,25.7985,5/2/2015
+AbongMbang002,AbongMbang,Cameroun,Cohen S.,"Ayol T., Cosio A., Mofack G., Mogue S.",4.18674,13.1096,1/1/2016
+AlpiCam018,AlpiCam,Cameroun,Cohen S.,"Libalah M., Mofack G., Ngana O., Tayo K.",3.95555,14.9534,1/1/2016
+AlpiCam019,AlpiCam,Cameroun,G. Mofack,"N. Kamdem, S. Momo, Ayol T., Ngrna O.",3.84282,14.3238,7/1/2017
+AlpiCam020,AlpiCam,Cameroun,G. Mofack,"N. Kamdem, S. Momo, Ayol T., Ngrna O.",3.8375,14.3146,7/1/2017
+AlpiCam021,AlpiCam,Cameroun,N. Kamdem,"S. Momo, Ayol T., Ngrna O.",3.827,14.3226,7/1/2017
+UMA009,UMA,République Démocratique du Congo,Eric Wasingya,Mbutanganga Tshimba,0.518864,25.8474,1/1/2014
+UMA006,Uma,République Démocratique du Congo,Barbier N.,Katembo J.,0.47503,25.8503,7/1/2013
+UMA001,Uma,République Démocratique du Congo,Barbier N.,Katembo J.,0.461415,25.8477,7/1/2013
+Mabou001,Mabounié,Gabon,Barbier N.,"Ploton P., Droissart V. Issembe, Y.",-0.742457,10.5615,5/1/2012
+Mabou002,Mabounié,Gabon,Barbier N.,"Ploton P., Droissart V. Issembe, Y.",-0.742324,10.5894,5/4/2012
+Mabou003,Mabounié,Gabon,Barbier N.,"Ploton P., Droissart V. Issembe, Y.",-0.782048,10.5491,5/6/2012
+Mabou004,Mabounié,Gabon,Barbier N.,"Ploton P., Droissart V. Issembe, Y.",-0.795496,10.5332,5/8/2012
+Mabou005,Mabounié,Gabon,Barbier N.,"Ploton P., Droissart V. Issembe, Y.",-0.714311,10.5839,5/9/2012
+Mabou006,Mabounié,Gabon,Barbier N.,"Ploton P., Droissart V. Issembe, Y.",-0.759995,10.5425,5/11/2012
+Mabou007,Mabounié,Gabon,Barbier N.,"Ploton P., Droissart V. Issembe, Y.",-0.72604900000000006,10.5269,10/11/2012
+Mabou008,Mabounié,Gabon,Barbier N.,"Ploton P., Droissart V. Issembe, Y.",-0.750264,10.5413,10/12/2012
+Mabou009,Mabounié,Gabon,Barbier N.,"Ploton P., Droissart V. Issembe, Y.",-0.81973,10.487,10/14/2012
+Mabou010,Mabounié,Gabon,Barbier N.,"Ploton P., Droissart V. Issembe, Y.",-0.788443,10.599,10/16/2012
+Mabou011,Mabounié,Gabon,Barbier N.,"Ploton P., Droissart V. Issembe, Y.",-0.730981,10.5931,10/18/2012
+Mabou012,Mabounié,Gabon,Barbier N.,"Ploton P., Droissart V. Issembe, Y.",-0.776309,10.5689,10/19/2012
+AlpiCam003,Alpicam,Cameroun,Ploton P.,Droissart V. Moses L.,3.68022,14.7023,3/5/2013
+Bejange001,Bedjangue,Cameroun,Sonké B.,NA,5.16958,9.67536,1/1/
+DengDeng002,Deng-Deng,Cameroun,Sonké B.,"Taedoumg H., Zemagho L., Ploton P., Kamdem N.",5.21306,13.4506,7/1/2011
+Korup1,Korup,Cameroun,Barbier N.,"Ploton P., Droissart V. Moses L.",5.07081,8.86928,2/28/2012
+AlpiCam002,Alpicam,Cameroun,Ploton P.,Droissart V. Moses L.,3.68437,14.7054,3/2/2013
+Bejange002,Bedjangue,Cameroun,Sonké B.,NA,5.18053,9.67603,1/1/
+Bissombo001,Bissombo,Cameroun,Sonké B.,NA,3.29492,12.4845,1/1/
+Bissombo002,Bissombo,Cameroun,Sonké B.,NA,3.29206,12.4838,1/1/
+Bissombo003,Bissombo,Cameroun,Sonké B.,NA,3.32253,12.4948,1/1/
+Bissombo004,Bissombo,Cameroun,Sonké B.,NA,3.32597,12.4833,1/1/
+Bissombo005,Bissombo,Cameroun,Sonké B.,NA,3.30953,12.4899,1/1/
+Bissombo006,Bissombo,Cameroun,Sonké B.,NA,3.31197,12.4917,1/1/
+DengDeng001,Deng-Deng,Cameroun,Sonké B.,"Taedoumg H., Zemagho L., Ploton P., Kamdem N.",5.21419,13.4449,7/1/2011
+Korup2,Korup,Cameroun,Barbier N.,"Ploton P., Droissart V. Moses L.",5.06497,8.86131,3/3/2012
+Pallisco2,Pallisco,Cameroun,Barbier N.,"Ploton P., Droissart V. Moses L., Taedoumg H.",3.40365,13.676,11/12/2012
+Pallisco3,Pallisco,Cameroun,Barbier N.,"Ploton P., Droissart V. Moses L., Taedoumg H.",3.38008,13.6611,11/15/2012
+Pallisco4,Pallisco,Cameroun,Barbier N.,"Ploton P., Droissart V. Moses L., Taedoumg H.",3.38401,13.6733,11/20/2012
+Ngoila001,Ngoïla,Cameroun,Sonké B.,"Droissart V., Taedoumg H., Zemagho L.",2.63894,14.1355,8/1/2012
+Ngoila002,Ngoïla,Cameroun,Sonké B.,"Droissart V., Taedoumg H., Zemagho L.",2.63991,14.1424,8/1/2012
+Ngoila003,Ngoïla,Cameroun,Sonké B.,"Droissart V., Taedoumg H., Zemagho L.",2.63331,14.1403,8/1/2012
+Lomié001,Lomié,Cameroun,Sonké B.,NA,3.11611,13.5801,1/1/
+Lomié002,Lomié,Cameroun,Sonké B.,NA,3.11514,13.5863,1/1/
+Lomié003,Lomié,Cameroun,Sonké B.,NA,3.04219,13.6179,1/1/
+Lomié004,Lomié,Cameroun,Sonké B.,NA,3.04942,13.6156,1/1/
+Lomié005,Lomié,Cameroun,Sonké B.,NA,3.02986,13.615,1/1/
+Lomié006,Lomié,Cameroun,Sonké B.,NA,3.02806,13.5953,1/1/
+Mintom003,Mintom,Cameroun,Sonké B.,"Droissart V. Taedoumg H., Simo M.",2.43329,13.5188,3/1/2011
+Nguti001,Nguti,Cameroun,Sonké B.,NA,5.34725,9.51692,1/1/
+Nguti002,Nguti,Cameroun,Sonké B.,NA,5.34794,9.52356,1/1/
+Nguti003,Nguti,Cameroun,Sonké B.,NA,5.35672,9.55108,1/1/
+Nguti004,Nguti,Cameroun,Sonké B.,NA,5.35867,9.58011,1/1/
+Nguti005,Nguti,Cameroun,Sonké B.,NA,5.35667,9.57531,1/1/
+Somalomo001,Somalomo,Cameroun,Sonké B.,NA,3.32564,12.7161,1/1/
+Somalomo002,Somalomo,Cameroun,Sonké B.,NA,3.33,12.719,2/25/2005
+Somalomo003,Somalomo,Cameroun,Sonké B.,NA,3.35511,12.7229,1/1/
+Somalomo004,Somalomo,Cameroun,Sonké B.,NA,3.35697,12.7273,3/1/2005
+Somalomo005,Somalomo,Cameroun,Sonké B.,NA,3.35511,12.7229,1/1/
+Somalomo006,Somalomo,Cameroun,Sonké B.,NA,3.32808,12.7586,3/6/2005
+MbamDjerem002,MbamDjeremNP,Cameroun,NA,NA,6.16358,12.8235,8/1/2007
+AlpiCam005,AlpiCam,Cameroun,Droissart V.,"Moses L., Deblauwe V.",3.68764,14.694,5/20/2013
+AlpiCam006,AlpiCam,Cameroun,Droissart V.,"Moses L., Deblauwe V.",3.67912,14.688,5/20/2013
+Djoum001,Djoum,Cameroun,Droissart V.,"Simo M., Fabre I.",2.78431,12.7633,4/1/2011
+Djoum002,Djoum,Cameroun,Droissart V.,"Simo M., Fabre I.",2.79376,12.7477,4/1/2011
+Kongo001,Kongo,Cameroun,Barbier N.,Ploton P.,3.3044,13.8186,11/28/2011
+Kongo002,Kongo,Cameroun,Barbier N.,Ploton P.,3.30075,13.809,12/1/2011
+Kongo003,Kongo,Cameroun,Barbier N.,Sonké B. Ploton P.,3.29722,13.8218,12/5/2011
+Kumu001,Kumu,Cameroun,Droissart V.,"Barbier N., Ploton P.",2.3781,13.253,8/10/2011
+Kumu002,Kumu,Cameroun,Droissart V.,"Barbier N., Ploton P.",2.37607,13.2434,8/10/2011
+Kumu003,Kumu,Cameroun,Droissart V.,"Barbier N., Ploton P.",2.37688,13.2472,8/10/2011
+Mintom001,Mintom,Cameroun,Barbier N.,"Couteron P., Fabre I.",2.43633,13.5364,3/1/2011
+Mintom002,Mintom,Cameroun,Barbier N.,"Couteron P., Fabre I.",2.44299,13.5275,3/1/2011
+Ngoila005,Ngoïla,Cameroun,Sonké B.,"Kamdem N., Moses L., Zebaze D.",2.6234,14.0525,8/10/2013
+Ngoila006,Ngoïla,Cameroun,Sonké B.,"Kamdem N., Moses L., Zebaze D.",2.62778,14.0497,8/10/2013
+UMA005,Uma,République Démocratique du Congo,Barbier N.,Katembo J.,0.456495,25.8394,7/1/2013
+UMA004,Uma,République Démocratique du Congo,Barbier N.,Katembo J.,0.45082,25.852,7/1/2013
+UMA003,Uma,République Démocratique du Congo,Barbier N.,Katembo J.,0.458985,25.8358,7/1/2013
+UMA002,Uma,République Démocratique du Congo,Barbier N.,Katembo J.,0.46129,25.8441,7/1/2013
+Lomié008,Lomié,Cameroun,Libalah M.,"Kamdem N., Kamdem G., Wonkam C.",3.11289,13.5774,11/18/2013
+MbamDjerem001,MbamDjeremNP,Cameroun,NA,NA,6.16831,12.8251,8/1/2007
+Evaro001,Evaro,Gabon,Barbier N.,"N. Texier, D. Zebaze, Raul Niangadouma",-0.816822,9.45802,10/20/2014
+Evaro002,Evaro,Gabon,Barbier N.,"N. Texier, D. Zebaze, Raul Niangadouma",-0.835346,9.4516,10/20/2014
+Evaro003,Evaro,Gabon,Barbier N.,"N. Texier, D. Zebaze, Raul Niangadouma",-0.831144,9.43549,10/20/2014
+Evaro004,Evaro,Gabon,Barbier N.,"N. Texier, D. Zebaze, Raul Niangadouma",-0.847773,9.45665,10/20/2014
+Evaro005,Evaro,Gabon,Barbier N.,"N. Texier, D. Zebaze, Raul Niangadouma",-0.849676,9.46997,10/20/2014
+Azingo002,Azingo,Gabon,Libalah M.,"V. Droissart,  Ehoarn Bidault, Davy Ulrich Ikabanga & Raul Niangadouma",-0.477372,10.0557,6/6/2014
+Azingo003,Azingo,Gabon,Libalah M.,"V. Droissart,  Ehoarn Bidault, Davy Ulrich Ikabanga & Raul Niangadouma",-0.492303,10.1623,6/6/2014
+Azingo004,Azingo,Gabon,Libalah M.,"V. Droissart,  Ehoarn Bidault, Davy Ulrich Ikabanga & Raul Niangadouma",-0.509246,10.0865,6/6/2014
+Nemeyong003,Pallisco,Cameroun,Texier N.,"M. Libalah, N.Kandem, D. Zebaze, G.Mofack, O. Ngana",3.31827,13.6531,1/1/2015
+Nemeyong004,Pallisco,Cameroun,Texier N.,"M. Libalah, N.Kandem, D. Zebaze, G.Mofack, O. Ngana",3.32017,13.6615,1/1/2015
+Nemeyong005,Pallisco,Cameroun,Texier N.,"M. Libalah, N.Kandem, D. Zebaze, G.Mofack, O. Ngana",3.31028,13.6695,1/1/2015
+Nemeyong001,Pallisco,Cameroun,Texier N.,"M. Libalah, N.Kandem, D. Zebaze, G.Mofack, O. Ngana",3.3118,13.6583,1/1/2015
+DengDeng003,Deng-Deng,Cameroun,KAMDEM N.,"ZEBAZE D., NGANA O., SONKE B., SIMO M.",5.2202,13.4476,7/20/2014
+DengDeng004,Deng-Deng,Cameroun,KAMDEM N.,"ZEBAZE D., NGANA O., SONKE B., SIMO M.",5.22626,13.4434,7/21/2014
+DengDeng005,Deng-Deng,Cameroun,KAMDEM N.,"ZEBAZE D., NGANA O., SONKE B., SIMO M.",5.20153,13.4384,7/22/2014
+DengDeng007,DengDeng,Cameroun,LIBALAH M.,"KAMDEM N., ZEBAZE D., MOFACK G., TEXIER N., NGANA O.",5.21886,13.4089,8/12/2014
+DengDeng008,DengDeng,Cameroun,LIBALAH M.,"KAMDEM N., ZEBAZE D., MOFACK G., TEXIER N., NGANA O.",5.2051,13.4249,8/14/2014
+DengDeng009,DengDeng,Cameroun,LIBALAH M.,"KAMDEM N., ZEBAZE D., MOFACK G., TEXIER N., NGANA O.",5.21074,13.418,8/17/2014
+DengDeng010,DengDeng,Cameroun,LIBALAH M.,"KAMDEM N., ZEBAZE D., MOFACK G., TEXIER N., NGANA O.",5.21691,13.4183,8/19/2014
+DengDeng011,Deng-Deng,Cameroun,Texier N.,"S.Momo, G.Mofack, O. Ngana",5.29292,13.4386,1/1/2015
+DengDeng012,Deng-Deng,Cameroun,Texier N.,"S.Momo, G.Mofack, O. Ngana",5.29301,13.4437,1/1/2015
+DengDeng013,Deng-Deng,Cameroun,Texier N.,"S.Momo, G.Mofack, O. Ngana",5.28977,13.4347,1/1/2015
+DengDeng014,Deng-Deng,Cameroun,Texier N.,"S.Momo, G.Mofack, O. Ngana",5.28717,13.4312,1/1/2015
+DengDeng015,Deng-Deng,Cameroun,Texier N.,"S.Momo, G.Mofack, O. Ngana",5.2832,13.4209,1/1/2015
+Djomedjo001,Djomedjo,Cameroun,Texier N.,"P. Ploton, D. Zebaze, S. Momo, O. Ngana",3.05967,13.5846,11/10/2014
+Djomedjo002,Djomedjo,Cameroun,Texier N.,"P. Ploton, D. Zebaze, S. Momo, O. Ngana",3.0623,13.5819,11/10/2014
+Djomedjo003,Djomedjo,Cameroun,Texier N.,"P. Ploton, D. Zebaze, S. Momo, O. Ngana",3.07502,13.5885,11/10/2014
+Djomedjo004,Djomedjo,Cameroun,Texier N.,"P. Ploton, D. Zebaze, S. Momo, O. Ngana",3.07511,13.5965,11/10/2014
+Djomedjo005,Djomedjo,Cameroun,Texier N.,"P. Ploton, D. Zebaze, S. Momo, O. Ngana",3.06532,13.5932,11/10/2014
+Djomedjo006,Djomedjo,Cameroun,N.Kandem,"D. Zebaze, G.Mofack, O. Ngana, A. Peroches",3.09334,13.5595,1/1/2014
+Djomedjo007,Djomedjo,Cameroun,N.Kandem,"D. Zebaze, G.Mofack, O. Ngana, A. Peroches",3.09036,13.5536,1/1/2014
+Djomedjo008,Djomedjo,Cameroun,N.Kandem,"D. Zebaze, G.Mofack, O. Ngana, A. Peroches",3.0812,13.5609,1/1/2014
+Djomedjo009,Djomedjo,Cameroun,N.Kandem,"D. Zebaze, G.Mofack, O. Ngana, A. Peroches",3.08552,13.5571,1/1/2014
+Djomedjo010,Djomedjo,Cameroun,N.Kandem,"D. Zebaze, G.Mofack, O. Ngana, A. Peroches",3.08664,13.5639,1/1/2014
+Kongo004,Kongo,Cameroun,Libalah M.,"G. Mofack, D. Zebaze, N. Kamdem, S. Momo, O. Ngana",3.36641,13.7991,11/1/2016
+Kongo005,Kongo,Cameroun,Libalah M.,"G. Mofack, D. Zebaze, N. Kamdem, S. Momo, O. Ngana",3.38165,13.8137,11/1/2016
+Kongo006,Kongo,Cameroun,Libalah M.,"G. Mofack, D. Zebaze, N. Kamdem, S. Momo, O. Ngana",3.38365,13.803,5/15/2015
+Kongo007,Kongo,Cameroun,Libalah M.,"G. Mofack, D. Zebaze, N. Kamdem, S. Momo, O. Ngana",3.39918,13.8201,5/17/2015
+Kongo008,Kongo,Cameroun,Libalah M.,"G. Mofack, D. Zebaze, N. Kamdem, S. Momo, O. Ngana",3.39718,13.8257,5/20/2015
+UMA008,UMA,République Démocratique du Congo,Eric Wasingya,Mbutanganga Tshimba,0.526817,25.8368,1/1/2014
+UMA007,UMA,République Démocratique du Congo,Eric Wasingya,Mbutanganga Tshimba,0.527782,25.8368,1/1/2014
+AlpiCam010,Comifac,Cameroun,Texier N.,"M. Libalah, G. Mofack, D. Zebaze, N. Kamdem, O. Ngana",3.91569,14.9263,1/1/2015
+AlpiCam011,Comifac,Cameroun,Texier N.,"M. Libalah, G. Mofack, D. Zebaze, N. Kamdem, O. Ngana",3.92531,14.9237,1/1/2015
+AlpiCam012,Comifac,Cameroun,Texier N.,"M. Libalah, G. Mofack, D. Zebaze, N. Kamdem, O. Ngana",3.91816,14.916,1/1/2015
+AlpiCam013,AlpiCam,Cameroun,M. Libalah,"D. Zebaze, O. Ngana",3.98045,14.8698,1/1/2015
+AbongMbang001,AbongMbang,Cameroun,Cohen S.,"Ayol T., Cosio A., Mofack G., Mogue S.",4.18364,13.1056,1/1/2016
+AbongMbang003,AbongMbang,Cameroun,Cohen S.,"Ayol T., Mofack G., Ngana O.",4.20646,13.1082,1/1/2016
+AbongMbang004,AbongMbang,Cameroun,Cohen S.,"Ayol T., Mofack G., Ngana O.",4.2014,13.1067,1/1/2016
+AbongMbang005,AbongMbang,Cameroun,Cohen S.,"Ayol T., Mofack G., Ngana O.",4.1875,13.115,1/1/2016
+AlpiCam009,Comifac,Cameroun,Texier N.,"M. Libalah, G. Mofack, D. Zebaze, N. Kamdem, O. Ngana",3.88727,14.4003,1/1/2015
+AlpiCam014,AlpiCam,Cameroun,M. Libalah,"D. Zebaze, O. Ngana",3.95665,14.8913,1/1/2015
+AlpiCam015,AlpiCam,Cameroun,M. Libalah,"D. Zebaze, O. Ngana",3.95656,14.8856,1/1/2015
+AlpiCam016,AlpiCam,Cameroun,Cohen S.,"Libalah M., Mofack G., Ngana O., Tayo K.",3.9499,14.9736,1/1/2016
+Atog-boga001,Atog-boga,Cameroun,Texier N.,"D. Zebaze, T. Ayol, V. Droissart",3.25671,10.4927,1/1/2015
+Atog-boga002,Atog-boga,Cameroun,Texier N.,"D. Zebaze, T. Ayol, V. Droissart",3.24889,10.4975,1/1/2015
+Atog-boga003,Atog-boga,Cameroun,Texier N.,"D. Zebaze, T. Ayol, V. Droissart",3.27196,10.4825,1/1/2015
+Ngovayang001,Ngovayang,Cameroun,Texier N.,"M. Libalah, G. Mofack, D. Zebaze, N. Kamdem",3.24677,10.5633,1/1/2015
+Ngovayang002,Ngovayang,Cameroun,Texier N.,"M. Libalah, G. Mofack, D. Zebaze, N. Kamdem",3.23407,10.5789,1/1/2015
+Somalomo007,Somalomo,Cameroun,LIBALAH M.,"ZEBAZE D., NGANA O., TAYO K.",3.3465,12.7076,1/1/2015
+Somalomo008,Somalomo,Cameroun,LIBALAH M.,"ZEBAZE D., NGANA O., TAYO K.",3.34892,12.7231,1/1/2015
+Somalomo009,Somalomo,Cameroun,LIBALAH M.,"ZEBAZE D., NGANA O., TAYO K.",3.34195,12.7335,1/1/2015
+Somalomo010,Somalomo,Cameroun,LIBALAH M.,"ZEBAZE D., NGANA O., TAYO K.",3.32897,12.7267,1/1/2015
+Somalomo011,Somalomo,Cameroun,LIBALAH M.,"ZEBAZE D., NGANA O., TAYO K.",3.34078,12.7246,1/1/2015
+AlpiCam007,Comifac,Cameroun,Texier N.,"M. Libalah, G. Mofack, D. Zebaze, N. Kamdem, O. Ngana",3.8815,14.3937,1/1/2015
+AlpiCam008,Comifac,Cameroun,Texier N.,"M. Libalah, G. Mofack, D. Zebaze, N. Kamdem, O. Ngana",3.88043,14.3873,1/1/2015
+nachtigal004,nachtigal,Cameroun,Sagang Le Bienfaiteur,NA,4.36775,11.704,2/28/2018
+nachtigal005,nachtigal,Cameroun,Sagang Le Bienfaiteur,NA,4.3612,11.7198,3/8/2018
+nachtigal006,nachtigal,Cameroun,Sagang Le Bienfaiteur,NA,4.3246,11.6642,3/7/2018
+nachtigal007,nachtigal,Cameroun,Sagang Le Bienfaiteur,NA,4.41767,11.7229,5/1/2018
+nachtigal008,nachtigal,Cameroun,Sagang Le Bienfaiteur,NA,4.40933,11.72,5/2/2018
+nachtigal009,nachtigal,Cameroun,Sagang Le Bienfaiteur,NA,4.45401,11.8143,5/4/2018
+nachtigal010,nachtigal,Cameroun,Sagang Le Bienfaiteur,NA,4.46006,11.8232,5/8/2018
+nachtigal011,nachtigal,Cameroun,Sagang Le Bienfaiteur,NA,4.44403,11.8133,5/9/2018
+AlpiCam001,Alpicam,Cameroun,Ploton P.,Droissart V. Moses L.,3.67155,14.7112,2/28/2013
+AlpiCam004,AlpiCam,Cameroun,Droissart V.,"Moses L., Deblauwe V.",3.68774,14.681,5/20/2013
+AlpiCam017,AlpiCam,Cameroun,Cohen S.,"Libalah M., Mofack G., Ngana O., Tayo K.",3.94314,14.9581,1/1/2016
+Azingo001,Azingo,Gabon,Libalah M.,"V. Droissart,  Ehoarn Bidault, Davy Ulrich Ikabanga & Raul Niangadouma",-0.496493,10.064,6/6/2014
+Bejange003,Bedjangue,Cameroun,Sonké B.,NA,5.17725,9.68297,1/1/
+DengDeng006,DengDeng,Cameroun,LIBALAH M.,"KAMDEM N., ZEBAZE D., MOFACK G., TEXIER N., NGANA O.",5.22031,13.4032,8/10/2014
+Pallisco1,Pallisco,Cameroun,Barbier N.,"Ploton P., Droissart V. Moses L., Taedoumg H.",3.40366,13.665,11/8/2012
+Ngoila004,Ngoïla,Cameroun,Sonké B.,"Kamdem N., Moses L., Zebaze D.",2.62182,14.056,8/10/2013
+Lomié007,Lomié,Cameroun,Libalah M.,"Kamdem N., Kamdem G., Wonkam C.",3.11642,13.5702,11/18/2013
+Nemeyong002,Pallisco,Cameroun,Texier N.,"M. Libalah, N.Kandem, D. Zebaze, G.Mofack, O. Ngana",3.32148,13.648,1/1/2015
+nachtigal001,nachtigal,Cameroun,Sagang Le Bienfaiteur,NA,4.37819,11.7229,2/28/2018
+nachtigal002,nachtigal,Cameroun,Sagang Le Bienfaiteur,NA,4.35703,11.7084,2/28/2018
+nachtigal003,nachtigal,Cameroun,Sagang Le Bienfaiteur,NA,4.37467,11.7418,2/28/2018
+UMA010,uma,République Démocratique du Congo,John Katembo,NA,0.46031300000000003,25.8226,4/10/2015
+UMA011,uma,République Démocratique du Congo,John Katembo,NA,0.442226,25.8697,4/15/2015
+UMA012,uma,République Démocratique du Congo,John Katembo,NA,0.432948,25.8602,4/18/2015
+UMA013,uma,République Démocratique du Congo,John Katembo,NA,0.44255,25.8561,4/22/2015
+UMA014,uma,République Démocratique du Congo,John Katembo,NA,0.467264,25.8046,4/25/2015
+UMA015,uma,République Démocratique du Congo,John Katembo,NA,0.444562,25.7931,4/28/2015
+UMA018,uma,République Démocratique du Congo,John Katembo,NA,0.462625,25.8631,5/4/2015
+UMA019,uma,République Démocratique du Congo,John Katembo,NA,0.446794,25.8264,5/6/2015
+UMA020,uma,République Démocratique du Congo,John Katembo,NA,0.466515,25.8368,5/8/2015
+UMA021,uma,République Démocratique du Congo,John Katembo,NA,0.568131,25.7776,6/7/2015
+UMA022,uma,République Démocratique du Congo,John Katembo,NA,0.566517,25.7868,6/10/2015
+UMA023,uma,République Démocratique du Congo,John Katembo,NA,0.553448,25.782,6/13/2015
+UMA024,uma,République Démocratique du Congo,John Katembo,NA,0.548974,25.7707,6/17/2015
+UMA025,uma,République Démocratique du Congo,John Katembo,NA,0.552311,25.7897,6/20/2015
+UMA026,uma,République Démocratique du Congo,John Katembo,NA,0.573996,25.7968,6/24/2015
+UMA027,uma,République Démocratique du Congo,John Katembo,NA,0.572786,25.8104,6/27/2015
+UMA028,uma,République Démocratique du Congo,John Katembo,NA,0.566771,25.813,7/1/2015
+UMA029,uma,République Démocratique du Congo,John Katembo,NA,0.522962,25.8742,7/3/2015
+UMA030,uma,République Démocratique du Congo,John Katembo,NA,0.524499,25.8659,7/5/2015
+MbamDjerem003,MbamDjeremNP,Cameroun,NA,NA,5.9841,12.8687,8/1/2007
+MbamDjerem004,MbamDjeremNP,Cameroun,NA,NA,5.9986,12.8679,9/1/2007
+MbamDjerem005,MbamDjeremNP,Cameroun,NA,NA,5.9805,12.869,9/1/2007
+MbamDjerem006,MbamDjeremNP,Cameroun,NA,NA,6.0035,12.8911,9/1/2007
+MbamDjerem007,MbamDjeremNP,Cameroun,NA,NA,6.0074,12.8869,9/1/2007
+MbamDjerem008,MbamDjeremNP,Cameroun,NA,NA,6.2132,12.7495,9/1/2007
+MbamDjerem009,MbamDjeremNP,Cameroun,NA,NA,6.0096,12.8889,9/1/2007
+MbamDjerem010,MbamDjeremNP,Cameroun,NA,NA,5.9975,12.8637,9/1/2007

@@ -1,0 +1,88 @@
+---
+title: "An overview of the network dataset"
+author: ""
+date: "`r Sys.Date()`"
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+  pdf_document: default
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+lastmod: "`r Sys.Date()`"
+categories: []
+projects: []
+slug: map
+subtitle: "Map and statistics"
+summary: ''
+tags: []
+authors: [admin, gilles]
+---
+
+
+```{r, echo=F, include=T, eval=T, warning=F, message=F}
+
+library(leaflet)
+library(sf)
+
+all_tr <- 
+   readr::read_csv("D:/MonDossierR/centrafri_website/content/en/post/all_ird_meta_data_website.csv")
+
+# all_tr_sf <- 
+#   sf::st_as_sf(all_tr, coords = c("ddlon", "ddlat"))
+
+
+greenLeafIcon <- makeIcon(
+  iconUrl = "http://leafletjs.com/examples/custom-icons/leaf-green.png",
+  iconWidth = 20, iconHeight = 50,
+  iconAnchorX = 20, iconAnchorY = 50
+)
+
+plots_lf <- 
+  leaflet(options = leafletOptions(zoomControl = TRUE)) %>% 
+  addProviderTiles(providers$OpenStreetMap, group =  "OSM") %>%
+  addProviderTiles(providers$Esri.WorldImagery, group =  "Esri.WorldImagery") %>%
+  # leaflet::addPolygons(data = africa, 
+  #                      fillColor = "black",
+  #                      weight = 1,
+  #                      opacity = 0.1,
+  #                      color = NA,
+  #                      dashArray = "3",
+  #                      fillOpacity = 0.1, 
+  #                      group = "Countries",
+  #                      label = "Countries") %>%
+  addMarkers(data = all_tr, 
+             lng = ~ddlon,
+             lat = ~ddlat,
+             popup = leafpop::popupTable(all_tr), 
+             group = "Plot", icon = greenLeafIcon) %>% 
+ addLayersControl(
+    baseGroups = c("OSM", "Esri.WorldImagery"),
+    overlayGroups = c("Plot"),
+    options = layersControlOptions(collapsed = FALSE)
+  )
+# %>%
+#   leaflet::fitBounds(
+#     lng1 = 6.5,
+#     lng2 = 6.6,
+#     lat1 = 0.1,
+#     lat2 = 0.4
+#   )
+
+
+```
+
+
+Below a map showing the localisation of the ```r nrow(all_tr)``` plots.
+
+
+```{r, echo=F}
+
+widgetframe::frameWidget(plots_lf)
+
+
+```
+
