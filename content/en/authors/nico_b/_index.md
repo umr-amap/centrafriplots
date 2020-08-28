@@ -5,7 +5,8 @@ bio:
 education:
 email: ""
 interests:
-- ####
+- Tropical vegetation ecology (structure, dynamics & productivity)
+- Remote sensing
 name: Nicolas Barbier
 organizations:
 - name: Institut de Recherche pour le Développement
@@ -22,6 +23,4 @@ user_groups:
 
 Nicolas Barbier is a Research Associate at [French National Research Institute for Sustainable Development](https://en.ird.fr/) at [AMAP joint unit](http://amap.cirad.fr/en/index.php).
 
-He's been involved in the network since XXX.
- ####
-
+Contact: nicolas.barbier(at)ird.fr
