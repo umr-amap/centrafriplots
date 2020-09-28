@@ -4,8 +4,6 @@ authors:
 bio: 
 education:
 email: ""
-interests:
-- ####
 name: Bonaventure Sonké
 organizations:
 - name: University of Yaoundé I
