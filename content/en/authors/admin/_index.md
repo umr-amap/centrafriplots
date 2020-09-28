@@ -20,6 +20,9 @@ user_groups:
 ---
 
 
+See the [map of existing plots](https://central-african-plot-network.netlify.app/map/).
+
+
 To help document the role and response of tropical forests in a global change context, IRD has been collaborating since 2010 with local institutions in Cameroon, Gabon and DRC to set up a network (or observatory) of permanent forest inventory scientific plots. 
 
   
@@ -35,8 +38,6 @@ A particular attention is given to the quality of *__plot georeferencing__* (Ré
 In terms of scientific output, parts of the plot network has already been used in ecological and remote sensing studies.   
 
 See the [publication section](https://central-african-plot-network.netlify.app/publication/) for more information.
-
-See the [map of existing plots](https://central-african-plot-network.netlify.app/map/).
 
 
 
