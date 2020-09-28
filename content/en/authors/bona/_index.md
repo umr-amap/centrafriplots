@@ -20,9 +20,10 @@ user_groups:
 - People
 ---
 
-Bonaventure Sonké is a Professor of Plant Systematic and Ecology at University of Yaounde I in Cameroon.
+Bonaventure Sonké is Professor and Head of the Department of Biology at Higher Teachers’ Training College (University of Yaoundé I, Cameroon). 
 
-He's been involved in the network since XXX.
- ####
- 
+Contact: bonaventuresonke(at)ens.cm / Bonaventure.sonke(at)ird.fr
+
+For more than 30 years, he has been working on all research related to the dynamics of forest in Central Africa (mortality, recruitment, increase in tree diameter) and assessment of the biomass. 
+He is a plant taxonomist and has devoted much of his research studying classification of the Orchidaceae and Rubiaceae families. 
 
