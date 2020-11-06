@@ -5,7 +5,9 @@ bio:
 education:
 email: ""
 interests:
-- ####
+- Gestion durable des écosystèmes du bassin du Congo basée sur les nouvelles technologies de surveillance et suivie de l’évolution du couvert végétal.
+- Botanique & Écologie Végétale.
+- Fonctionnement et Aménagement des écosystèmes tropicaux, REDD+.
 name: Stéphane Momo Takoudjou
 organizations:
 - name: University of Yaoundé I
@@ -18,7 +20,4 @@ user_groups:
 
 Stéphane Momo Takoudjou is a Researcher of Plant Systematic and Ecology at University of Yaounde I in Cameroon.
 
-He's been involved in the network since/between/during XXX.
- ####
- 
 
