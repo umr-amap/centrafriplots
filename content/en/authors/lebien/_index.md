@@ -5,7 +5,9 @@ bio:
 education:
 email: ""
 interests:
-- ###
+- Remote sensing
+- Carbon sequestration dynamics
+- Tropical plant ecology
 name: Le Bienfaiteur Sagang
 organizations:
 - name: Institut de Recherche pour le Développement
@@ -20,7 +22,7 @@ user_groups:
 - People
 ---
 
-Le Bienfaiteur Sagang is..
+Le Bienfaiteur Sagang is a PhD student at the Laboratoire de Botanique systématique et d’Ecologie (Ecole Normale Supérieure), Yaoundé, Cameroon.
 
-He's been involved in the network since/in/between XXX.
- ####
+
+
