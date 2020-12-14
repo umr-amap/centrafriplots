@@ -22,7 +22,8 @@ user_groups:
 - People
 ---
 
-Nicolas Texier is PhD student and has been involved in the netwok since 2013.
+Nicolas Texier is nowadays a PhD student at the Université Libre de Bruxelles. H
+e has been involved in the netwok since 2013.
 
 He is also a specialist of the Gabonese Flora. See the [website](http://legacy.tropicos.org/Project/Threatened_Plants_Gabon) dedicated to the Endemic Gabonese flora.
 
