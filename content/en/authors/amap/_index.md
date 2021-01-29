@@ -7,7 +7,7 @@ email: ""
 name: Botany and Modelling of Plant Architecture and vegetation lab
 organizations:
 - name: UMR AMAP
-  url: "http://amap.cirad.fr/en/index.php"
+  url: "https://amap.cirad.fr/fr/index.php"
 role: Partner
 social:
 - icon: twitter
