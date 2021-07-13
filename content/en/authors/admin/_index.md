@@ -20,7 +20,7 @@ user_groups:
 ---
 
 
-See the [map of existing plots](https://central-african-plot-network.netlify.app/map/).
+See a [MAP showing the DISTRIBUTION of plots](https://central-african-plot-network.netlify.app/map/).
 
 
 To help document the role and response of tropical forests in a global change context, the [French National Research Institute for Sustainable Development](https://en.ird.fr/) has been collaborating since 2010 with local institutions in Cameroon, Gabon and DRC to set up a network (or observatory) of permanent forest inventory scientific plots. 
