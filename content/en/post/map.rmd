@@ -28,11 +28,11 @@ authors: [gilles]
 library(leaflet)
 library(sf)
 
-all_tr <- 
-   readr::read_csv("all_ird_meta_data_website.csv")
-
 # all_tr <- 
-#    readr::read_csv("D:/MonDossierR/centrafri_website/content/en/post/all_ird_meta_data_website.csv")
+#    readr::read_csv("all_ird_meta_data_website.csv")
+
+all_tr <-
+   readr::read_csv("D:/MonDossierR/centrafri_website/content/en/post/all_ird_meta_data_website.csv")
 
 # all_tr_sf <- 
 #   sf::st_as_sf(all_tr, coords = c("ddlon", "ddlat"))
